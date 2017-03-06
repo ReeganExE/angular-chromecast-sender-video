@@ -1,0 +1,22 @@
+{
+  "name": "angular-chromecast-sender-video",
+  "homepage": "https://github.com/vaneves/angular-chromecast-sender-video",
+  "authors": [
+    "vaneves",
+    "ReeganExE <dongian.rapclubkhtn@gmail.com>"
+  ],
+  "description": "AngularJS Module to send videos to Google Chromecast",
+  "main": "src/angular-chromecast-sender-video.js.js",
+  "keywords": [
+    "chromecast",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
