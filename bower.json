@@ -6,7 +6,7 @@
     "ReeganExE <dongian.rapclubkhtn@gmail.com>"
   ],
   "description": "AngularJS Module to send videos to Google Chromecast",
-  "main": "src/angular-chromecast-sender-video.js.js",
+  "main": "src/angular-chromecast-sender-video.js",
   "keywords": [
     "chromecast",
     "angular"
